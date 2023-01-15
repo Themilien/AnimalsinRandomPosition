@@ -15,6 +15,7 @@
             <RowDefinition/>
             <RowDefinition/>
             <RowDefinition/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
         <TextBlock Text="?" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Margin="14,0,0,0" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Row="1" Text="?" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Margin="14,0,0,0" MouseDown="TextBlock_MouseDown"/>
